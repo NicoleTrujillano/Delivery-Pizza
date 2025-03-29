@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/agdasima</item>
+        <item>@font/almendra_bold</item>
+        <item>@font/anton</item>
+        <item>@font/atma_medium</item>
+        <item>@font/barrio</item>
+        <item>@font/calistoga</item>
+        <item>@font/chivo_mono</item>
+        <item>@font/cookie</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/kranky</item>
+        <item>@font/ribeye_marrow</item>
+    </array>
+</resources>
